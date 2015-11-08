@@ -1,6 +1,9 @@
 """
-TopCoder Security Agency (TSA, established today) has just invented a new encryption system! This encryption system takes as its input a list of numbers to encrypt.
-You work at TSA and your task is to implement a very important part of the encryption process. You are allowed to pick one number in the input list and increment its value by 1. This should be done in such way that the product of all numbers in the llist after this change becomes as large as possible.
+TopCoder Security Agency (TSA, established today) has just invented a new encryption system! 
+This encryption system takes as its input a list of numbers to encrypt.
+You work at TSA and your task is to implement a very important part of the encryption process. 
+You are allowed to pick one number in the input list and increment its value by 1. 
+This should be done in such way that the product of all numbers in the llist after this change becomes as large as possible.
 GIven the list, return the maximum product you can obtain. It is guaranteed that the return value will not exceed 2**62
 
 Example:
